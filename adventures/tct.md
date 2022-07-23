@@ -5,6 +5,7 @@ permalink: /tct/
 image_sliders:
   - svaneti_slider
   - armenia_slider
+  - georgia22_slider
 ---
 The Transcaucasian Trail (TCT) project aims to build a long-distance hiking trail (3000+ km) through Georgia, Armenia and Azerbaijan following the Greater and Lesser Caucasus mountain ranges.
 

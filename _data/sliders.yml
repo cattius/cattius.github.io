@@ -156,7 +156,6 @@
     effect: "'fade'"
 
 # kungsleden slider
-# TODO
 - selector: kungsleden_slider
   captions: false
   images:
