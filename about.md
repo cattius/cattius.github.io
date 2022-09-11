@@ -19,17 +19,18 @@ When I'm not working on tech, you'll likely find me in the mountains. You can ch
 * [Establishing a Long Distance Trail: The Caucasus and UBES(ters)](/images/ubes-caucasus.pdf) - UBES 60th Anniversary Celebration, Bristol, February 2020
 
 ## Research
-* **OpcodeTester**: fuzzing tool for undocumented opcodes on x86 and RISC-V.
-    * [Code](https://github.com/cattius/opcodetester)
-    * [Slides](https://github.com/cattius/opcodetester/blob/master/presentation.pdf)
-    * [Thesis](https://github.com/cattius/opcodetester/blob/master/thesis.pdf)
-    * [Hacker News discussion](https://news.ycombinator.com/item?id=22517319)
-* **PLATYPUS: Software-based Power Side-Channel Attacks on x86.** Moritz Lipp, Andreas Kogler, David Oswald, Michael Schwarz, Catherine Easdon, Claudio Canella, Daniel Gruss. *IEEE Symposium on Security & Privacy 2021.*
+* **Rapid Prototyping for Microarchitectural Attacks.** Catherine Easdon, Michael Schwarz, Martin Schwarzl, Daniel Gruss. *USENIX Security Symposium 2022.*
+    * [Paper and Conference Slides](https://www.usenix.org/conference/usenixsecurity22/presentation/easdon)
+    * [Frameworks](https://github.com/libtea/frameworks)
+* **PLATYPUS: Software-based Power Side-Channel Attacks on x86.** Moritz Lipp, Andreas Kogler, David Oswald, Michael Schwarz, Catherine Easdon, Claudio Canella, Daniel Gruss. *IEEE Symposium on Security & Privacy 2021.* CVE-2020-8694 and CVE-2020-8695.
     * [Website](https://platypusattack.com/)
     * [Paper](/images/platypus.pdf)
     * [Conference Recording](https://www.youtube.com/watch?v=LXaroV2crWw)
     * [Music Video (yes, really!)](https://www.youtube.com/watch?v=ygWEK1JvL_s)
     * Media: [The Register](https://www.theregister.com/2020/11/10/intel_sgx_side_channel/), [Computer Weekly](https://www.computerweekly.com/news/252491855/Intel-and-AMD-processors-affected-by-another-side-channel-exploit), [arstechnica](https://arstechnica.com/information-technology/2020/11/intel-sgx-defeated-yet-again-this-time-thanks-to-on-chip-power-meter/), [ZDNet](https://www.zdnet.com/article/new-platypus-attack-can-steal-data-from-intel-cpus/)
-* **Rapid Prototyping for Microarchitectural Attacks.** Catherine Easdon, Michael Schwarz, Martin Schwarzl, Daniel Gruss. *USENIX Security Symposium 2022.*
-    * [Paper and Conference Slides](https://www.usenix.org/conference/usenixsecurity22/presentation/easdon)
-    * [Frameworks](https://github.com/libtea/frameworks)
+* **OpcodeTester**: fuzzing tool for undocumented opcodes on x86 and RISC-V.
+    * [Code](https://github.com/cattius/opcodetester)
+    * [Slides](https://github.com/cattius/opcodetester/blob/master/presentation.pdf)
+    * [Technical Report 2018](https://github.com/cattius/opcodetester/blob/master/thesis.pdf)
+    * [Master's Thesis 2019](/images/thesis-unsigned.pdf)
+    * [Hacker News discussion](https://news.ycombinator.com/item?id=22517319)
