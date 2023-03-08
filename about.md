@@ -19,6 +19,10 @@ When I'm not working on tech, you'll likely find me in the mountains. You can ch
 * [Establishing a Long Distance Trail: The Caucasus and UBES(ters)](/images/ubes-caucasus.pdf) - UBES 60th Anniversary Celebration, Bristol, February 2020
 
 ## Research
+* **CustomProcessingUnit: Reverse Engineering and Customization of Intel Microcode.** Pietro Borrello, Catherine Easdon, Martin Schwarzl, Roland Czerny, Michael Schwarz. *17th IEEE Workshop on Offensive Technologies (WOOT 2023).*
+    * [Preprint](/images/custom-processing-unit.pdf)
+    * [Ghidra processor module for static analysis](https://github.com/pietroborrello/ghidra-atom-microcode)
+    * [Dynamic analysis framework](https://github.com/pietroborrello/CustomProcessingUnit)
 * **Rapid Prototyping for Microarchitectural Attacks.** Catherine Easdon, Michael Schwarz, Martin Schwarzl, Daniel Gruss. *USENIX Security Symposium 2022.*
     * [Paper and Conference Slides](https://www.usenix.org/conference/usenixsecurity22/presentation/easdon)
     * [Frameworks](https://github.com/libtea/frameworks)
