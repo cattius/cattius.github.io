@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Transcaucasian Trail
-permalink: /tct/
+permalink: /adventures/tct
 image_sliders:
   - svaneti_slider
   - armenia_slider

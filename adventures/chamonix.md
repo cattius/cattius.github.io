@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Skiing and mountaineering in Chamonix
-permalink: /chamonix/
+permalink: /adventures/chamonix
 image_sliders:
   - chamonix_slider
 ---

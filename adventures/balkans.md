@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Peaks of the Balkans Trail
-permalink: /balkans/
+permalink: /adventures/balkans
 image_sliders:
   - balkans_slider
 ---

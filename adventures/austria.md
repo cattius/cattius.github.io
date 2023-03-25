@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hiking and Skiing in Austria
-permalink: /austria/
+permalink: /adventures/austria
 image_sliders:
   - austria_slider
 ---

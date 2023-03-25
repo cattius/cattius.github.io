@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cape Wrath Trail
-permalink: /wrath/
+permalink: /adventures/wrath
 image_sliders:
   - wrath_slider
 ---

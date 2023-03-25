@@ -1,7 +1,7 @@
 ---
 layout: page
 title: UBES UK Trips
-permalink: /ubes-uk/
+permalink: /adventures/ubes-uk
 image_sliders:
   - ubes_slider
 ---

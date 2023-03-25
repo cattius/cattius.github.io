@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hadrian's Wall Path
-permalink: /hadrians/
+permalink: /adventures/hadrians
 image_sliders:
   - hadrians_slider
 ---

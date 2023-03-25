@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Snowshoeing the Kungsleden
-permalink: /kungsleden/
+permalink: /adventures/kungsleden
 image_sliders:
   - kungsleden_slider
 ---

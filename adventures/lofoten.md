@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lofoten Islands
-permalink: /lofoten/
+permalink: /adventures/lofoten
 image_sliders:
   - lofoten_slider
 ---

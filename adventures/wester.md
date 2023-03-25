@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hiking in Wester Ross
-permalink: /wester/
+permalink: /adventures/wester
 image_sliders:
   - wester_slider
 ---
