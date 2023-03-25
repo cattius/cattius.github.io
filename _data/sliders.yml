@@ -280,3 +280,21 @@
   settings:
     height: "'16:9'"
     effect: "'fade'"
+
+# Nepal slider
+- selector: nepal_slider
+  captions: false
+  images:
+    - src: /images/nepal/1.jpg
+    - src: /images/nepal/2.jpg
+    - src: /images/nepal/3.jpg
+    - src: /images/nepal/4.jpg
+    - src: /images/nepal/5.jpg
+    - src: /images/nepal/6.jpg
+    - src: /images/nepal/7.jpg
+    - src: /images/nepal/8.jpg
+    - src: /images/nepal/9.jpg
+    - src: /images/nepal/10.jpg
+  settings:
+    height: "'16:9'"
+    effect: "'fade'"
