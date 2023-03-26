@@ -19,7 +19,7 @@ In privacy, you're considering ...
 TODO some threat actors will be the same but what they are trying to do is different. Probably most benefit from modeling separately and then security and privacy teams sync - can both learn from each other's thought processes.
 
 ## Data Flow Diagrams
-Personally, I like [Miro](), but there are many other options available:
+Personally, I like [Miro](https://miro.com), but there are many other options available:
 * Drawing tools such as diagrams.net or excalidraw
 * Dedicated threat modeling tools such as Threat Dragon 
 * And of course, if you're threat modeling together in person, you can simply whiteboard or use pen and paper. This does make it harder to maintain the threat model over time, however. It's a living document: your system won't stay static over time, and neither will your threats.
@@ -68,7 +68,7 @@ While trying to assign precise numbers to privacy risks is a mistake that should
 
 ## Prioritizing Risks with a Probability-Impact Chart
 
-![Probability-impact matrix](/images/uproar/probability-impact.png?style=centered "A chart with impact on the x-axis and probability on the y-axis. The chart is split into a 3x3 grid annotated with values from low (in the bottom left) to critical (in the top right).")
+![Probability-impact matrix](/images/uproar/probability-impact.png "A chart with impact on the x-axis and probability on the y-axis. The chart is split into a 3x3 grid annotated with values from low (in the bottom left) to critical (in the top right).")
 
 1. For each risk, decide if it's `unlikely`, `somewhat likely` (a.k.a. `I don't know`), or `very likely` to happen. This determines where the risk should be placed on the y-axis.
 2. Now decide if the impact of it happening is `low`, `medium`, or `high`. This determines where the risk should go on the x-axis.

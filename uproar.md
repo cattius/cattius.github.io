@@ -35,7 +35,7 @@ The course is under construction - stay tuned as modules are added.
   4. [Privacy Threat Modeling](/uproar/threat-modeling)
   5. Dangerous Animals of Product Management, Privacy Edition
   6. Privacy as Code
-  7. Privacy Enhancing Technologies (PETs)
+  7. [Privacy Enhancing Technologies (PETs)](/uproar/pets)
   8. [Privacy in ML and AI](/uproar/ai)
   9. When Should I Talk To Legal?
 * [Future Privacy Challenges](/uproar/future)
