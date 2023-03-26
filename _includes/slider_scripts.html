@@ -10,8 +10,8 @@
 {%- endif -%}
 {% if iis_slider_array != empty %}
   <script src="{{ "ideal-image-slider-JS/ideal-image-slider.min.js" | relative_url }}"></script>
-  <script src="{{ "ideal-image-slider-JS/iis-bullet-nav.js" | relative_url }}"></script>
-  <script src="{{ "ideal-image-slider-JS/iis-captions.js" | relative_url }}"></script>
+  <script src="{{ "ideal-image-slider-JS/extensions/bullet-nav/iis-bullet-nav.js" | relative_url }}"></script>
+  <script src="{{ "ideal-image-slider-JS/extensions/captions/iis-captions.js" | relative_url }}"></script>
   <script>
   {% for selector in iis_slider_array -%}
     {%- assign slider = site.data.sliders | where:"selector",selector | first -%}
