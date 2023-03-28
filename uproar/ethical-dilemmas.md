@@ -8,6 +8,27 @@ permalink: /uproar/ethical-dilemmas
 
 ## Why Protect Users You Disagree With?
 > *"I disapprove of what you say, but I will defend to the death your right to say it"* - Evelyn Beatrice Hall, 1906, illustrating Voltaire's beliefs.
+
+> First they came for the Jews
+> and I did not speak out
+> because I was not a Jew.
+>
+> Then they came for the Communists
+> and I did not speak out
+> because I was not a Communist.
+>
+> Then they came for the trade unionists
+> and I did not speak out
+> because I was not a trade unionist.
+>
+> Then they came for me
+> and there was no one left
+> to speak out for me.
+> 
+> Martin Niemöller
+
+Why protect users you disagree with - even dislike? Well, one day your life might depend on someone you dislike protecting you.
+
 * moral circle expansion
 * for and against moral relativism - utexas ethics unwrapped videos, giving voice to values series, complement with peter singer practical ethics (argues against moral relativism)
 * moral blind spots - non-human rights

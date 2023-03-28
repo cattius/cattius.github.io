@@ -23,6 +23,8 @@ Under construction.
 * https://www.lesswrong.com/posts/jtoPawEhLNXNxvgTT/bing-chat-is-blatantly-aggressively-misaligned
 * Standards and security measures corps should take: https://www.cold-takes.com/what-ai-companies-can-do-today-to-help-with-the-most-important-century/
 
+**What does privacy mean now in a world where anyone can easily produce realistic fake photos, videos, writing, or audio supposedly by or of “you”? We’re a long way from the world of gentlemen opening each other’s mail.**
+
 ## AI Safety
 * https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4370566 - Algorithmic Black Swans, EU AI Act, NIST AI Risk Management Framework, AI Bill of Rights
 * https://twitter.com/lilianedwards/status/1639566493754228738 "The EU AI Act is an opportunity to apply international human rights principles...  (to) non-consensual human experimentation to AI systems"

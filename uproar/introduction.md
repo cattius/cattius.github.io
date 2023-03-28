@@ -4,7 +4,33 @@ title: Introduction - What Is Privacy?
 permalink: /uproar/introduction
 ---
 
-In this module, we'll take a look at some of the classic definitions of privacy to try and understand what privacy is and how its definition has evolved over time. Interpretations of privacy vary so much that when you discuss privacy with someone else, you may each have very different concepts in mind.
+In this module, we'll take a look at some of the classic definitions of privacy to try and understand what privacy is and how its definition has evolved over time. Interpretations of privacy vary so much that when you discuss privacy with someone else, you may each have very different concepts in mind. But first: why should we even care about privacy at all?
+
+## A Cautionary Tale
+> Imagine you wake up one morning at home to find a stranger watching over you. 
+>
+> You are alarmed. You jump out of bed, demanding the stranger identify himself. But he remains silent, staring at you unblinking. You size him up; he seems to be unarmed. Still half asleep and uncertain what to do, you try to push him away, as if he were a mosquito to swat. To your surprise, there is no resistance. You get him out of the door and bolt it firmly shut. Phew. Sitting down to prepare yourself some breakfast, you wonder who on earth that was.
+>
+> Except…Soon you need to go to work. And the stranger is still there, waiting patiently by the door. Frightened, you call out for help. Your neighbor will know what to do - he might even know this person. Your neighbor greets you with a smile and strides toward you to say hello. To your horror, he walks straight through the stranger. As if he weren’t even there!
+>
+> You make distracted conversation with your neighbor, while hoping that maybe you’re still dreaming. Then the stranger follows you onto your bus to work, again seemingly invisible to anyone but you. He snaps photos of you buying food; chatting to a colleague; working at your desk. He seems particularly fascinated by the clickity-clack sound of your fingers typing and your hand on the mouse, drawing near with a microphone to capture the vibrations. Whenever you pause, he takes the opportunity to make measurements with a laser pointer: the distance between you and the book on your shelf, the size of the office, the gap between your cheekbones.
+>
+> As the days go by, you grow accustomed to the stranger’s presence. He watches you as you play with your family; takes notes on how you brush your teeth. Watching others brush through him like thin air, you conclude he’s either a ghost or a hallucination. Either way, best not to mention it to anyone. And besides, he seems harmless, although it bothers you that he never seems to run out of pages in his notebook. 
+>
+> One day, while out shopping, you jokingly ask him to cast the deciding vote between two mangoes. For the first time, he smiles, and nods his head towards the first.
+
+## Why Should You Care About Your Privacy?
+> Not the power to remember, but its very opposite, the power to forget, is a necessary condition for our existence - Sholem Asch, The Nazarene, 1939, p. 3.
+
+TODO.
+
+* your permanent record
+* [Privacy is power - Carissa Véliz - Aeon](https://aeon.co/essays/privacy-matters-because-it-empowers-us-all)
+* [Open-Source Intelligence (OSINT) in 5 Hours - The Cyber Mentor - Youtube](https://www.youtube.com/watch?v=qwA6MmbeGNo)
+* [Hunting the Hunters: How We Identified Navalny's FSB Stalkers - Bellingcat](https://www.bellingcat.com/resources/2020/12/14/navalny-fsb-methodology/) - how OSINT + data brokers can be used to identify people - data sources that are hard to escape e.g. passenger records. Of particular concern in Russia
+* [Intro to OSINT and Geolocation Data - MCH2022 - Youtube](https://www.youtube.com/watch?v=BLrdLp6sO48)
+* Facebook pixel, personalized ads, personality profiling, election manipulation: https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2023/03/lurking-beneath-surface-hidden-impacts-pixel-tracking
+* https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser - must read, includes defenses for website providers
 
 ## Warren and Brandeis: The Right to Privacy
 > "Recent inventions and business methods ... have invaded the sacred precincts of private and domestic life; ... devices threaten to make good the prediction that "what is whispered in the closet shall be proclaimed from the house-tops" ... the question whether our law will recognize and protect the right to privacy in this and in other respects must soon come before our courts for consideration."
@@ -49,14 +75,6 @@ TODO.
 * The right to withdraw consent
 * The right to redress
 * The right to not be subject to solely automated decision-making, including profiling
-
-## Why should I care about my privacy?
-* [Privacy is power - Carissa Véliz - Aeon](https://aeon.co/essays/privacy-matters-because-it-empowers-us-all)
-* [Open-Source Intelligence (OSINT) in 5 Hours - The Cyber Mentor - Youtube](https://www.youtube.com/watch?v=qwA6MmbeGNo)
-* [Hunting the Hunters: How We Identified Navalny's FSB Stalkers - Bellingcat](https://www.bellingcat.com/resources/2020/12/14/navalny-fsb-methodology/) - how OSINT + data brokers can be used to identify people - data sources that are hard to escape e.g. passenger records. Of particular concern in Russia
-* [Intro to OSINT and Geolocation Data - MCH2022 - Youtube](https://www.youtube.com/watch?v=BLrdLp6sO48)
-* Facebook pixel, personalized ads, personality profiling, election manipulation: https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2023/03/lurking-beneath-surface-hidden-impacts-pixel-tracking
-* https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser - must read, includes defenses for website providers
 
 ## Collective Privacy
 Privacy is often considered to be an individual right. Data protection law establishes rights for individual data subjects, not groups or organizations. Yet this narrow definition obscures the potential for collective harms to society. 
