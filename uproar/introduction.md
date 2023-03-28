@@ -55,6 +55,8 @@ TODO.
 * [Open-Source Intelligence (OSINT) in 5 Hours - The Cyber Mentor - Youtube](https://www.youtube.com/watch?v=qwA6MmbeGNo)
 * [Hunting the Hunters: How We Identified Navalny's FSB Stalkers - Bellingcat](https://www.bellingcat.com/resources/2020/12/14/navalny-fsb-methodology/) - how OSINT + data brokers can be used to identify people - data sources that are hard to escape e.g. passenger records. Of particular concern in Russia
 * [Intro to OSINT and Geolocation Data - MCH2022 - Youtube](https://www.youtube.com/watch?v=BLrdLp6sO48)
+* Facebook pixel, personalized ads, personality profiling, election manipulation: https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2023/03/lurking-beneath-surface-hidden-impacts-pixel-tracking
+* https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser - must read, includes defenses for website providers
 
 ## Collective Privacy
 Privacy is often considered to be an individual right. Data protection law establishes rights for individual data subjects, not groups or organizations. Yet this narrow definition obscures the potential for collective harms to society. 
@@ -69,3 +71,4 @@ Another factor in privacy being considered to be an indivdidual, not collective 
 * ["Democracy Depends On It": Carrisa Véliz On Privacy And Ending Data Surveillance](https://www.publicbooks.org/carissa-veliz-on-privacy-and-ending-data-surveillance/) - the case for collective privacy
 * [The Right to Privacy](https://www.jstor.org/stable/1321160) - Samuel D. Warren and Louis D. Brandeis, Harvard Law Review (1890)
 * *Understanding Privacy* - Daniel J. Solove, Harvard University Press (2008)
+* *We Are Bellingcat: An Intelligence Agency For the People* - Eliot Higgins, Bloomsbury Publishing (2021)

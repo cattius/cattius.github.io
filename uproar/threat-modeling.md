@@ -9,7 +9,7 @@ permalink: /uproar/threat-modeling
 So, you have a new product feature to implement. You have your functional requirements and an initial design. How does privacy fit into this phase of the development lifecycle? Now is the perfect time to do *privacy threat modeling*. Your threat model won't be static - you should absolutely revisit this later on, particularly if a major adjustment is made to the requirements or design - but now is the best time to begin threat modeling, before you write a single line of code or even commit to developing the feature. It's much less costly to identify potential concerns now, as you can adjust the design without needing to rewrite an in-progress implementation. And if you end up with a threat model full of high or critical risks, now is also the cheapest time to scrap the feature entirely.
 
 ## Security vs. Privacy Threat Modeling
-In this section, I'll focus exclusively on privacy threat modeling, but of course the same cost arguments apply for doing security threat modeling *right now* too. Don't postpone it either, or you'll have (at best) missed deadlines and (at worst) data breaches to look forward to.
+In this section, I'll focus exclusively on privacy threat modeling, but of course the same cost arguments apply for doing security threat modeling *right now* too. Don't postpone it either, or you'll have (at best) missed deadlines and (at worst) data breaches and angry users to look forward to.
 
 Why are security and privacy threat modeling different, though? Can't they be done at the same time by the same people? Well, the starting points for both are the same and can be combined: firstly, gathering all available design documentation, and secondly, creating a data flow diagram. From this point onwards, though, it helps to work on them separately, because you're identifying different threats and threat actors.
 
@@ -66,6 +66,13 @@ Both in threat modeling and in general when working on security or privacy, ther
 
 While trying to assign precise numbers to privacy risks is a mistake that should be avoided, it's certainly helpful to have a rough sense of a risk's "size" so that you can compare risks with one another to prioritize your mitigation efforts. While in an ideal world, all privacy risks would be perfectly mitigated and we wouldn't need to prioritize, we all know that's not the world we live in. So what can you do? There are a range of heuristics people use, but a good standby is the probability-impact matrix.
 
+* https://www.suerf.org/suer-policy-brief/16053/radical-uncertainty
+* https://www.openglobalrights.org/radical-uncertainty-and-human-rights/
+* https://www.aei.org/economics/decision-making-in-an-age-of-radical-uncertainty-my-long-read-qa-with-mervyn-king/
+* https://www.thegovernancepost.org/2021/03/howtosurviveradicaluncertainty/
+* https://athenarium.com/radical-uncertainty-mervyn-king-john-kay/
+* https://www.oecd.org/naec/events/understanding-the-economy/Radical_Uncertainty_John_Kay.pdf
+
 ## Prioritizing Risks with a Probability-Impact Chart
 
 ![Probability-impact matrix](/images/uproar/probability-impact.png "A chart with impact on the x-axis and probability on the y-axis. The chart is split into a 3x3 grid annotated with values from low (in the bottom left) to critical (in the top right).")
@@ -86,4 +93,9 @@ While trying to assign precise numbers to privacy risks is a mistake that should
 
 ## Resources
 * [OWASP Threat Modeling Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html)
-* Radical Uncertainty: Decision-making for an unknowable future (book)
+* *Radical Uncertainty: Decision-making for an unknowable future*, Mervyn King and John Kay, Hachette UK (2020)
+* [Invited Talk: Metric Perversity and Bad Decision-Making - USENIX Engima 2023](https://www.youtube.com/watch?v=doelnwoYzCw) - Lea Kissner
+
+## Image Attribution
+* [The Information Security triad: CIA. Second version - Michael Bakni, Wikimedia Commons. Licensed CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:CIAJMK1209-en.svg)
+
