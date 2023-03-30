@@ -42,11 +42,18 @@ Why protect users you disagree with - even dislike? Well, one day your life migh
 * when expanding into (ethically) unknown markets - do a thorough ethical review of the country, particularly if selling your product to a government (or government-affiliated) entity. https://www.hrw.org/, Amnesty International. could your product be repurposed by bad actors for surveillance? even if you trust the customer, what is the insider threat potential?
 
 ## Frameworks
+> "An authoritative list of the core internationally recognized human rights is contained in the International Bill of Human Rights (consisting of the Universal Declaration of Human Rights and the main instruments through which it has been codified: the International Covenant on Civil and Political Rights and the International Covenant on Economic, Social and Cultural Rights), coupled with the principles concerning fundamental rights in the eight ILO core conventions as set out in the Declaration on Fundamental Principles and Rights at Work. These are the benchmarks against which other social actors assess the human rights impacts of business enterprises. The responsibility of business enterprises to respect human rights is distinct from issues of legal liability and enforcement, which remain defined largely by national law provisions in relevant jurisdictions. 
+> Depending on circumstances, business enterprises may need to consider additional standards. For instance, enterprises should respect the human rights of individuals belonging to specific groups or populations that require particular attention, where they may have adverse human rights impacts on them. In this connection, United Nations instruments have elaborated further on the rights of indigenous peoples; women; national or ethnic, religious and linguistic minorities; children; persons with disabilities; and migrant workers and their families. Moreover, in situations of armed conflict enterprises should respect the standards of international humanitarian law."
+
+
 How can we reason about hard ethical choices?
 
 * UNESCO tolerance: the threshold of peace report could be helpful (downloaded 098178eng.pdf). https://www.unesco.org/en/promoting-tolerance-human-dignity-fundamental-human-rights
 * https://www.whitehouse.gov/wp-content/uploads/2022/04/Declaration-for-the-Future-for-the-Internet_Launch-Event-Signing-Version_FINAL.pdf - mentions UN Declaration of Human Rights
 * Internet Society Internet Impact Assessment
+* UN Guiding Principles on Business and Human Rights. define ethical red lines within the company. warrant canaries to the public could help keep you accountable. "31 principles implementing the United Nations' (UN) "Protect, Respect and Remedy" framework". 
+* e.g. 3M say they support United Nations Global Compact, Universal Declaration of Human Rights
+European Convention on Human Rights, United Nations Guiding Principles on Business and Human Rights, International Labor Organization’s Declaration on Fundamental Principles and Rights at Work, United Nations Convention Against Corruption. what about instruments that are legally binding on companies?
 
 ## Content Moderation and Scanning
 * https://stratechery.com/2022/rights-laws-and-google/

@@ -4,6 +4,15 @@ title: UPROAR - The Opinionated Privacy Engineering Course
 permalink: /uproar/
 ---
 
+## What is Privacy Engineering?
+Privacy engineering is where software, the law, and ethics meet, with the aim of ensuring that everyone has their rights respected and their data processed fairly.
+
+When data protection law requires state-of-the-art technical protections, engineers *must* be involved to implement these, yet there's often a huge communication gap between legal and engineering teams. They're both experts in their domains, but have very different perspectives on the product and find it hard to find common ground. With their combined engineering and privacy domain knowledge, privacy engineers help bridge this gap, 'translating' law and policy directly into code, or into technical requirements for other engineers to implement. But you don't need to be a (prospective) privacy engineer to benefit from this course. By learning a little domain knowledge and engaging on ethical questions, *everyone* can help bridge the gap to ensure the products we build respect users' rights and make the world a better place, not a worse one.
+
+Which rights are we talking about protecting here? Well, data protection law establishes rights for each individual (the 'data subject'). The EU [GDPR](https://gdpr.eu/), for example, includes a right to have your personal data deleted, also known as the 'right to be forgotten'. At first, this sounds straightforward: of course you should have the right to delete your account from a product you no longer use. But enabling this in practice might require database and code changes in many different systems (some maintained by third parties), coordination between teams across the company, and legal advice to determine what data should and should not be removed. That’s when you call in the privacy engineers.
+
+It's important to remember, however, that individual rights extend far beyond data subject rights. The right to privacy (Article 12) is just one of the 30 Articles in the [United Nations Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights). Violating someone's privacy may violate their other rights too, and while these rights are mostly complementary, sometimes they can be in conflict with one another, leading to hard ethical choices. How might privacy abuses violate the right to freedom of thought? And to what extent should we restrict freedom of speech to protect privacy? We'll explore these ethical questions and others like them in this course.
+
 ## What is UPROAR?
 UPROAR stands for **UnaPologetically opinionated Resources On Automation and human Rights**. (Yes, I never let reality get in the way of my acronyms.) This is a course on privacy engineering for technology professionals. It was born out of my frustration at two major issues with existing free online resources on privacy.
 
