@@ -41,3 +41,10 @@ Shockingly, not all about CPUs.
 * [UBES Expedition Planning Workshop](/images/exped-planning-workshop.pdf) - University of Bristol, May 2019
 * [Why Audit Your CPU? Searching for Undocumented CPU Behavior](/images/audit-cpu.pdf) - Third School on Security & Correctness, Graz University of Technology, September 2019
 * [Establishing a Long Distance Trail: The Caucasus and UBES(ters)](/images/ubes-caucasus.pdf) - UBES 60th Anniversary Celebration, Bristol, February 2020
+
+## Giving What We Can
+<div style="float:left;margin-right:15px;"><img src="/images/gwwc.png" alt="A badge from the organization Giving What We Can with the text 'I donate 10% of my income to effective charities'" height="200"></div>
+
+[I've taken the Giving What We Can pledge to donate 10% of my income to effective charities](https://www.givingwhatwecan.org/blog/should-charity-be-anonymous), and I encourage you to do the same if that's financially feasible for you. 
+
+If you'd like to donate but don't know how or where to start, [Giving What We Can](https://www.givingwhatwecan.org/) has some great resources to help guide you in evaluating which charities can do the most good with your money - and to nudge you to get started! (Check out ["How Rich Am I?"](https://howrichami.givingwhatwecan.org/how-rich-am-i))

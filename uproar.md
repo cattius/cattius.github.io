@@ -34,9 +34,9 @@ The course is under construction - stay tuned as modules are added.
 
 * [Introduction - What is Privacy?](/uproar/introduction)
 * [What Does Privacy Mean To Your Users?](/uproar/privacy-differences)
-* The Human Rights-Based Approach to Privacy
 * Ethical Dilemmas in Privacy
 * Defining Personal Data
+* Data Protection Law Around The World
 * Privacy in the Software Development Lifecycle (SDLC)
   1. Introduction
   2. Product Design Case Studies
