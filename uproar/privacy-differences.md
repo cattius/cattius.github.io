@@ -25,6 +25,10 @@ TODO.
 * related laws like COPPA
 * don't overprotect or censor - autonomy and self-determination
 
+## Employee Privacy
+* Microsoft productivity score
+* https://crackedlabs.org/daten-arbeitsplatz
+
 ## Privacy and Accessibility
 TODO.
 * Privacy challenges for partially-sighted individuals - some research into this - Apple has a mode to help a little with this that darkens the screen with a wave

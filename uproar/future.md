@@ -23,6 +23,13 @@ TODO.
 ## Space Privacy
 TODO.
 * https://80000hours.org/problem-profiles/space-governance/
+* https://www.spacefoundation.org/space_brief/international-space-law/
+* https://www.unoosa.org/oosa/en/ourwork/spacelaw/index.html
+* https://www.michalsons.com/blog/spacetech-do-data-privacy-laws-apply-to-outer-space/45577
+* https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1098&context=spacelaw Outer Space Law Principles and Privacy
+* https://www.unoosa.org/oosa/en/ourwork/copuos/index.html
+* Earth observation and satellites
+* privacy concerns with starlink?
 
 ## Resources
 * [Unique Identification of 50,000+ Virtual Reality Users from Head & Hand Motion Data](https://arxiv.org/abs/2302.08927) - Vivek Nair, Wenbo Guo, Justus Mattern, Rui Wang, James F. O'Brien, Louis Rosenberg, and Dawn Song, arXiv (2023).

@@ -79,6 +79,7 @@ TODO.
 make sure you're sufficiently legally informed that you can really follow the letter of the law and reject excessive requests
 * if you have the resources, fight back against govt gag orders like Microsoft has
 * implement all feasible technical measures to combat mass government surveillance (end-to-end encryption, avoid cross-border data flows altho. of course there's the lie re: internet routing)
+* https://www.vice.com/en/article/jg84yy/data-brokers-netflow-data-team-cymru, https://twitter.com/WolfieChristl/status/1572682780781481985 has detail on Augury tool and previous leak, https://resources.sei.cmu.edu/news-events/events/flocon/program.cfm
 
 ## Resources
 * [Cloudflare Transparency Update: Joining Cloudflare's Flock of (Warrant) Canaries](https://blog.cloudflare.com/cloudflare-transparency-update-joining-cloudflares-flock-of-warrant-canaries-2/) - Cloudflare's warrant canaries as of 2019 and their transparency report
