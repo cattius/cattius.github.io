@@ -20,9 +20,19 @@ In this module, we'll take a look at some of the classic definitions of privacy 
 > One day, while out shopping, you jokingly ask him to cast the deciding vote between two mangoes. For the first time, he smiles, and nods his head towards the first.
 
 ## Why Should You Care About Your Privacy?
-> Not the power to remember, but its very opposite, the power to forget, is a necessary condition for our existence - Sholem Asch, The Nazarene, 1939, p. 3.
+> Privacy...plays an important role in upholding **human dignity** and in sustaining a strong and vibrant society...where individuals have **autonomy**: where their inquiry is free because it is given adequate space for experimentation and their ability to speak and participate in discourse within the academy is possible **without intimidation**. Privacy is a condition that makes living out these values possible...How privacy is balanced against the many rights, values, and desires of our society is among the most challenging issues of our time." - UC Privacy and Information Security Steering Committee Report, January 2013 [^1]
 
-TODO.
+Why should you care about your privacy? You've got nothing to hide, right?
+If you agree, I invite you to check out Do Not Track, an interactive documentary series...
+
+* a computer model based on 250 likes is better than your spouse at judging your personality. "Private traits and attributes are predictable from digital records of human behavior" Kosinski
+* https://ssd.eff.org/module/why-metadata-matters
+* Check out https://coveryourtracks.eff.org/ then https://ssd.eff.org/module/what-fingerprinting
+* website fingerprinting is replacing cookies (due to cookie law and they're too easy to delete/block)
+* if something's free, you're the product
+* Brave Basic Attention Token
+
+"For this reason, many privacy advocates recommend using as few extensions as possible. Additionally, many privacy advocates recommend using multiple different browsers for different things. As an example, I switch frequently between brave and Firefox depending on what I am currently doing on the internet. Compartmentalization is key"
 
 * your permanent record
 * [Privacy is power - Carissa Véliz - Aeon](https://aeon.co/essays/privacy-matters-because-it-empowers-us-all)
@@ -90,3 +100,6 @@ Another factor in privacy being considered to be an indivdidual, not collective 
 * [The Right to Privacy](https://www.jstor.org/stable/1321160) - Samuel D. Warren and Louis D. Brandeis, Harvard Law Review (1890)
 * *Understanding Privacy* - Daniel J. Solove, Harvard University Press (2008)
 * *We Are Bellingcat: An Intelligence Agency For the People* - Eliot Higgins, Bloomsbury Publishing (2021)
+
+## Footnotes
+[^1]: [Privacy and Information Security Initiative Steering Committee Report to the President](https://ucop.edu/privacy-initiative/uc-privacy-and-information-security-steering-committee-final-report.pdf), The University of California (2013)

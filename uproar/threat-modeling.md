@@ -18,6 +18,8 @@ In privacy, you're considering ...
 
 TODO some threat actors will be the same but what they are trying to do is different. Probably most benefit from modeling separately and then security and privacy teams sync - can both learn from each other's thought processes.
 
+<img src="../images/uproar/cia-triad.png" alt="The security triad of Confidentiality, Integrity, and Availability" height="230">
+
 ## Data Flow Diagrams
 Personally, I like [Miro](https://miro.com), but there are many other options available:
 * Drawing tools such as diagrams.net or excalidraw
@@ -72,6 +74,7 @@ While trying to assign precise numbers to privacy risks is a mistake that should
 * https://www.thegovernancepost.org/2021/03/howtosurviveradicaluncertainty/
 * https://athenarium.com/radical-uncertainty-mervyn-king-john-kay/
 * https://www.oecd.org/naec/events/understanding-the-economy/Radical_Uncertainty_John_Kay.pdf
+
 
 ## Prioritizing Risks with a Probability-Impact Chart
 

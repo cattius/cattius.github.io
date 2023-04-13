@@ -55,6 +55,8 @@ How can we reason about hard ethical choices?
 * e.g. 3M say they support United Nations Global Compact, Universal Declaration of Human Rights
 European Convention on Human Rights, United Nations Guiding Principles on Business and Human Rights, International Labor Organization’s Declaration on Fundamental Principles and Rights at Work, United Nations Convention Against Corruption. what about instruments that are legally binding on companies?
 
+* [The Charter of Human Rights and Principles for the Internet](https://www.ohchr.org/sites/default/files/Documents/Issues/Opinion/Communications/InternetPrinciplesAndRightsCoalition.pdf)
+
 ## Content Moderation and Scanning
 * https://stratechery.com/2022/rights-laws-and-google/
 
