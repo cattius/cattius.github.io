@@ -29,13 +29,40 @@ Personally, I like [Miro](https://miro.com), but there are many other options av
 ## LINDDUN
 LINDDUN is a framework for identifying and managing privacy threats.
 
-* **Linkability**:
-* **Identifiability**:
-* **Non-repudiation**: being unable to deny something. For example
-* **Detectability**:
-* **Disclosure of Information**:
-* **Unawareness**:
-* **Non-compliance**:
+<div class="accordion">
+<button class="accordion-btn">Linkability</button>
+<p class="panel">Todo description here</p>
+</div>
+
+<div class="accordion">
+<button class="accordion-btn">Identifiability</button>
+<p class="panel">Todo description here</p>
+</div>
+
+<div class="accordion">
+<button class="accordion-btn">Non-Repudiation</button>
+<p class="panel">being unable to deny something. For example, ...</p>
+</div>
+
+<div class="accordion">
+<button class="accordion-btn">Detectability</button>
+<p class="panel">Todo description here</p>
+</div>
+
+<div class="accordion">
+<button class="accordion-btn">Disclosure of Information</button>
+<p class="panel">Todo description here</p>
+</div>
+
+<div class="accordion">
+<button class="accordion-btn">Unawareness</button>
+<p class="panel">Todo description here</p>
+</div>
+
+<div class="accordion">
+<button class="accordion-btn">Non-Compliance</button>
+<p class="panel">Todo description here</p>
+</div>
 
 ## Risk vs. Threats vs. Exploits vs. Vulnerabilities
 These concepts are easy to confuse. One of the best metaphors I've seen explaining the difference was [tweeted](https://twitter.com/caseyjohnellis/status/1384277480979124232) by `@caseyjohnellis`. I quote:
