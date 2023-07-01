@@ -13,8 +13,10 @@ Previously, I hacked CPUs for a living at the [IAIK](https://www.iaik.tugraz.at/
 When I’m not coding, you’ll usually find me in the mountains, either knee-deep in snow or gazing in awe at the views! You can check out some of my adventures [here](/adventures).
 
 ## Research
-* **CustomProcessingUnit: Reverse Engineering and Customization of Intel Microcode.** Pietro Borrello, Catherine Easdon, Martin Schwarzl, Roland Czerny, Michael Schwarz. *17th IEEE Workshop on Offensive Technologies (WOOT 2023).*
-    * [Preprint](/images/custom-processing-unit.pdf)
+* **CustomProcessingUnit: Reverse Engineering and Customization of Intel Microcode.** Pietro Borrello, Catherine Easdon, Martin Schwarzl, Roland Czerny, Michael Schwarz. *17th IEEE Workshop on Offensive Technologies (WOOT 2023).* Best Paper Award 🏅
+    * [Paper](https://wootconference.org/papers/woot23-paper14.pdf)
+    * [Workshop Recording](https://wootconference.org/video/07-CustomProcessingUnit.mp4)
+    * [BlackHat USA 2022 recording](https://www.youtube.com/watch?v=C-ZSvTVvK1o)
     * [Ghidra processor module for static analysis](https://github.com/pietroborrello/ghidra-atom-microcode)
     * [Dynamic analysis framework](https://github.com/pietroborrello/CustomProcessingUnit)
 * **Rapid Prototyping for Microarchitectural Attacks.** Catherine Easdon, Michael Schwarz, Martin Schwarzl, Daniel Gruss. *USENIX Security Symposium 2022.*
