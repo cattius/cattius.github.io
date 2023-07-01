@@ -4,4 +4,4 @@ This repo contains my personal website. The content is statically generated usin
 ## Licenses
 * MIT license: Jekyll template (see `jekyll-license.txt`)
 * [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/): favicons (see `favicon-license.txt`)
-* [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/): all other content, including the UPROAR course (see `LICENSE`).
+* [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/): all other content

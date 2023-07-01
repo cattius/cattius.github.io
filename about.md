@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi, I'm Cat.
 
-I translate law and policy into code as a Privacy Engineer at [Dynatrace](https://www.dynatrace.com/). As an [Internet Society Early Career Fellow](https://www.internetsociety.org/fellowships/early-career/fellows/2023/) and [ECCRI European Cybersecurity Fellow](https://eccri.eu/2023-2024-eccri-fellows/), I'm learning to bridge the gap between tech and policy together with a fantastic bunch of fellows and experts, and am developing a human rights-based course on privacy engineering, [UPROAR](/uproar).
+I translate law and policy into code as a Privacy Engineer at [Dynatrace](https://www.dynatrace.com/). As an [Internet Society Early Career Fellow](https://www.internetsociety.org/fellowships/early-career/fellows/2023/) and [ECCRI European Cybersecurity Fellow](https://eccri.eu/2023-2024-eccri-fellows/), I'm learning to bridge the gap between tech and policy together with a fantastic bunch of fellows and experts, and am developing an introductory online course on privacy engineering.
 
 Previously, I hacked CPUs for a living at the [IAIK](https://www.iaik.tugraz.at/research-area/securesystems/), had a brief but transformative glimpse into the world of Privacy and Civil Liberties Engineering at [Palantir](https://www.palantir.com/pcl/), and did my initial geeking out over computer architecture and security in my MEng in Computer Science at the [University of Bristol](http://www.bris.ac.uk/engineering/departments/computerscience/).
 
