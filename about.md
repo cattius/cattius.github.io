@@ -37,12 +37,16 @@ When I’m not coding, you’ll usually find me in the mountains, either knee-de
 
 ## Talks
 Shockingly, not all about CPUs.
-* [Undocumented CPU Behavior: Analyzing Undocumented Opcodes on Intel x86-64](/images/undocumented-cpu-behavior.pdf) - IAIK, Graz University of Technology, June 2018
-* [Explainable DNNs: What Has Your Network Really Learnt?](/images/explainable-dnns.pdf) - Applied Deep Learning Symposium, University of Bristol, December 2018
-* [Through the Range of Light: Hiking the JMT](/images/hiking-jmt.pdf) - UBES Shorts, University of Bristol, February 2019
-* [UBES Expedition Planning Workshop](/images/exped-planning-workshop.pdf) - University of Bristol, May 2019
-* [Why Audit Your CPU? Searching for Undocumented CPU Behavior](/images/audit-cpu.pdf) - Third School on Security & Correctness, Graz University of Technology, September 2019
+
+* Rights by Design: Privacy Engineering for the Rights of All, 18th Annual Meeting of the United Nations Internet Governance Forum (IGF), Kyoto, upcoming October 2023
+* Policy Development on Generative AI based on Biometrics & Weaponizing Information Bubbles (Panel), Asia Pacific Regional Internet Governance Forum (APrIGF), Brisbane/virtual, August 2023
+* Online Privacy: The Foundation of Digital Rights (Panel) - Internet Society Early Career Fellowship Symposium, virtual, July 2023
 * [Establishing a Long Distance Trail: The Caucasus and UBES(ters)](/images/ubes-caucasus.pdf) - UBES 60th Anniversary Celebration, Bristol, February 2020
+* [Why Audit Your CPU? Searching for Undocumented CPU Behavior](/images/audit-cpu.pdf) - Third School on Security & Correctness, Graz University of Technology, September 2019
+* [UBES Expedition Planning Workshop](/images/exped-planning-workshop.pdf) - University of Bristol, May 2019
+* [Through the Range of Light: Hiking the JMT](/images/hiking-jmt.pdf) - UBES Shorts, University of Bristol, February 2019
+* [Explainable DNNs: What Has Your Network Really Learnt?](/images/explainable-dnns.pdf) - Applied Deep Learning Symposium, University of Bristol, December 2018
+* [Undocumented CPU Behavior: Analyzing Undocumented Opcodes on Intel x86-64](/images/undocumented-cpu-behavior.pdf) - IAIK, Graz University of Technology, June 2018
 
 ## Giving What We Can
 <div style="float:left;margin-right:15px;"><img src="/images/gwwc.png" alt="A badge from the organization Giving What We Can with the text 'I donate 10% of my income to effective charities'" height="200"></div>
