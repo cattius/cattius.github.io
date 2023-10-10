@@ -38,7 +38,7 @@ When I’m not coding, you’ll usually find me in the mountains, either knee-de
 ## Talks
 Shockingly, not all about CPUs.
 
-* Rights by Design: Privacy Engineering for the Rights of All, 18th Annual Meeting of the United Nations Internet Governance Forum (IGF), Kyoto, upcoming October 2023
+* [Rights by Design: Privacy Engineering for the Rights of All](/images/rights-by-design.pdf), 18th Annual Meeting of the United Nations Internet Governance Forum (IGF), Kyoto, October 2023
 * [Policy Development on Generative AI based on Biometrics & Weaponizing Information Bubbles](https://www.youtube.com/watch?v=Hdp1jAU1x70) (Panel), Asia Pacific Regional Internet Governance Forum (APrIGF), Brisbane/virtual, August 2023
 * Online Privacy: The Foundation of Digital Rights (Panel) - Internet Society Early Career Fellowship Symposium, virtual, July 2023
 * [Establishing a Long Distance Trail: The Caucasus and UBES(ters)](/images/ubes-caucasus.pdf) - UBES 60th Anniversary Celebration, Bristol, February 2020
