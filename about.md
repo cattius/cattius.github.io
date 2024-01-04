@@ -48,6 +48,11 @@ Shockingly, not all about CPUs.
 * [Explainable DNNs: What Has Your Network Really Learnt?](/images/explainable-dnns.pdf) - Applied Deep Learning Symposium, University of Bristol, December 2018
 * [Undocumented CPU Behavior: Analyzing Undocumented Opcodes on Intel x86-64](/images/undocumented-cpu-behavior.pdf) - IAIK, Graz University of Technology, June 2018
 
+## Academic Service
+* ACM CCS: Program Committee (Hardware, Side Channels, and Cyber-Physical Systems Track) [2023](https://www.sigsac.org/ccs/CCS2023/orgs-program.html)
+* USENIX PEPR: Program Committee [2024](https://www.usenix.org/conference/pepr24/call-for-participation)
+* IACR CHES: Artifact Review Committee, [2023](https://ches.iacr.org/2023/artifacts.php)
+
 ## Giving What We Can
 <div style="float:left;margin-right:15px;"><img src="/images/gwwc.png" alt="A badge from the organization Giving What We Can with the text 'I donate 10% of my income to effective charities'" height="200"></div>
 
