@@ -40,7 +40,7 @@ Shockingly, not all about CPUs!
 
 * Privacy by Design in the SDLC: Why, When, How?, WeAreDevelopers World Congress, Berlin/virtual, upcoming July 2024
 * That's rather inappropriate, dear: the challenges of determining 'appropriate' measures for personal data deletion, International Workshop on Privacy Engineering (industry track), Vienna, upcoming July 2024
-* Defence against the Dark Patterns: UX Lessons from the Deceptive Side of the Web, Web Summer Camp (workshop), Opatija, upcoming July 2024
+* [Defence against the Dark Patterns: UX Lessons from the Deceptive Side of the Web](/images/dark-patterns.pdf), Web Summer Camp, Opatija, July 2024
 * [Privacy Leaks Beyond the Class-Level: Protecting Personal Data](/images/privacy-leaks.pdf), Java Vienna, June 2024
 * [Rights by Design: Privacy Engineering for the Rights of All](/images/rights-by-design.pdf), 18th Annual Meeting of the United Nations Internet Governance Forum (IGF), Kyoto, October 2023
 * [Policy Development on Generative AI based on Biometrics & Weaponizing Information Bubbles](https://www.youtube.com/watch?v=Hdp1jAU1x70) (Panel), Asia Pacific Regional Internet Governance Forum (APrIGF), Brisbane/virtual, August 2023
