@@ -39,8 +39,8 @@ When I’m not coding, you’ll usually find me in the mountains, either knee-de
 Shockingly, not all about CPUs!
 
 * Privacy by Design in the SDLC: Why, When, How?, WeAreDevelopers World Congress, Berlin/virtual, upcoming July 2024
-* That's rather inappropriate, dear: the challenges of determining 'appropriate' measures for personal data deletion, International Workshop on Privacy Engineering (industry track), Vienna, upcoming July 2024
-* [Defence against the Dark Patterns: UX Lessons from the Deceptive Side of the Web](/images/dark-patterns.pdf), Web Summer Camp, Opatija, July 2024
+* [That's rather inappropriate, dear: the challenges of determining 'appropriate' measures for personal data deletion](/images/appropriate-privacy.pdf), International Workshop on Privacy Engineering (industry track), Vienna, July 2024
+* [Defence against the Dark Patterns: UX Lessons from the Deceptive Side of the Web](/images/dark-patterns.pdf), Web Summer Camp (UX track), Opatija, July 2024
 * [Privacy Leaks Beyond the Class-Level: Protecting Personal Data](/images/privacy-leaks.pdf), Java Vienna, June 2024
 * [Rights by Design: Privacy Engineering for the Rights of All](/images/rights-by-design.pdf), 18th Annual Meeting of the United Nations Internet Governance Forum (IGF), Kyoto, October 2023
 * [Policy Development on Generative AI based on Biometrics & Weaponizing Information Bubbles](https://www.youtube.com/watch?v=Hdp1jAU1x70) (Panel), Asia Pacific Regional Internet Governance Forum (APrIGF), Brisbane/virtual, August 2023
@@ -55,11 +55,11 @@ Shockingly, not all about CPUs!
 ## Academic Service
 * ACM CCS: Program Committee (Hardware, Side Channels, and Cyber-Physical Systems Track) [2023](https://www.sigsac.org/ccs/CCS2023/orgs-program.html), [2024](https://www.sigsac.org/ccs/CCS2024/organization/prog-committee.html)
 * USENIX PEPR: Program Committee [2024](https://www.usenix.org/conference/pepr24/call-for-participation)
-* IACR CHES: Artifact Review Committee, [2023](https://ches.iacr.org/2023/artifacts.php)
+* IACR CHES: Artifact Review Committee [2023](https://ches.iacr.org/2023/artifacts.php)
 
 ## Giving What We Can
 <div style="float:left;margin-right:15px;"><img src="/images/gwwc.png" alt="A badge from the organization Giving What We Can with the text 'I donate 10% of my income to effective charities'" height="200"></div>
 
-[I've taken the Giving What We Can pledge to donate 10% of my income to effective charities](https://www.givingwhatwecan.org/blog/should-charity-be-anonymous), and I encourage you to do the same if that's financially feasible for you. 
+[I've taken the Giving What We Can 🔸 10% Pledge](https://www.givingwhatwecan.org/blog/should-charity-be-anonymous), and I encourage you to do the same if that's financially feasible for you.
 
 If you'd like to donate but don't know how or where to start, [Giving What We Can](https://www.givingwhatwecan.org/) has some great resources to help guide you in evaluating which charities can do the most good with your money - and to nudge you to get started! (Check out ["How Rich Am I?"](https://howrichami.givingwhatwecan.org/how-rich-am-i))
