@@ -9,13 +9,14 @@ permalink: /adventures/
 * [UBES Adventures](/adventures/ubes-uk), UK (2015-2019)
 * [Lofoten Islands](/adventures/lofoten), Norway (2016)
 * [Chamonix](/adventures/chamonix), France (2017)
-* [Transcaucasian Trail](/adventures/tct), Georgia and Armenia (2017, 2018, 2021)
+* [Transcaucasian Trail](/adventures/tct), Georgia and Armenia (2017, 2018, 2021, 2024)
 * [Wester Ross](/adventures/wester), Scotland (2017)
 * [Austria](/adventures/austria) (2017-present)
 * [Peaks of the Balkans Trail](/adventures/balkans), Montenegro, Kosovo, and Albania (2018)
 * [Cape Wrath Trail](/adventures/wrath), UK (2019)
 * [Kungsleden](/adventures/kungsleden), Sweden (2020)
 * [Three Passes Trek](/adventures/nepal), Nepal (2022)
+* [Mt. Olympus](/adventures/olympus), Greece (2023)
 
 # UBES Adventures
 I wrote some blog posts for UBES (University of Bristol Expeditions Society, a.k.a. my second family) which might give you some insight into the glorious chaos of our adventures:
