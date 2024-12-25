@@ -35,22 +35,23 @@ When I’m not coding, you’ll usually find me in the mountains, either knee-de
     * [Master's Thesis 2019](/images/thesis-unsigned.pdf)
     * [Hacker News discussion](https://news.ycombinator.com/item?id=22517319)
 
-## Talks
-Shockingly, not all about CPUs!
+## Talks and Articles
+I present and write about privacy, security, and policy, with some mountain expeditions thrown in for good measure.
 
+* [Responsible AI principles in an 'apolitical' industry](https://bindinghook.com/articles-binding-edge/responsible-ai-principles-in-an-apolitical-industry/), Binding Hook (op-ed), October 2024
 * [Privacy by Design in the SDLC: Why, When, How?](/images/privacy-sdlc.pdf), WeAreDevelopers World Congress, Berlin/virtual, July 2024
 * [That's rather inappropriate, dear: the challenges of determining 'appropriate' measures for personal data deletion](/images/appropriate-privacy.pdf), International Workshop on Privacy Engineering (industry track), Vienna, July 2024
 * [Defence against the Dark Patterns: UX Lessons from the Deceptive Side of the Web](/images/dark-patterns.pdf), Web Summer Camp (UX track), Opatija, July 2024
 * [Privacy Leaks Beyond the Class-Level: Protecting Personal Data](/images/privacy-leaks.pdf), Java Vienna, June 2024
 * [Rights by Design: Privacy Engineering for the Rights of All](/images/rights-by-design.pdf), 18th Annual Meeting of the United Nations Internet Governance Forum (IGF), Kyoto, October 2023
 * [Policy Development on Generative AI based on Biometrics & Weaponizing Information Bubbles](https://www.youtube.com/watch?v=Hdp1jAU1x70) (Panel), Asia Pacific Regional Internet Governance Forum (APrIGF), Brisbane/virtual, August 2023
-* Online Privacy: The Foundation of Digital Rights (Panel) - Internet Society Early Career Fellowship Symposium, virtual, July 2023
-* [Establishing a Long Distance Trail: The Caucasus and UBES(ters)](/images/ubes-caucasus.pdf) - UBES 60th Anniversary Celebration, Bristol, February 2020
-* [Why Audit Your CPU? Searching for Undocumented CPU Behavior](/images/audit-cpu.pdf) - Third School on Security & Correctness, Graz University of Technology, September 2019
-* [UBES Expedition Planning Workshop](/images/exped-planning-workshop.pdf) - University of Bristol, May 2019
-* [Through the Range of Light: Hiking the JMT](/images/hiking-jmt.pdf) - UBES Shorts, University of Bristol, February 2019
-* [Explainable DNNs: What Has Your Network Really Learnt?](/images/explainable-dnns.pdf) - Applied Deep Learning Symposium, University of Bristol, December 2018
-* [Undocumented CPU Behavior: Analyzing Undocumented Opcodes on Intel x86-64](/images/undocumented-cpu-behavior.pdf) - IAIK, Graz University of Technology, June 2018
+* Online Privacy: The Foundation of Digital Rights (Panel), Internet Society Early Career Fellowship Symposium, virtual, July 2023
+* [Establishing a Long Distance Trail: The Caucasus and UBES(ters)](/images/ubes-caucasus.pdf), UBES 60th Anniversary Celebration, Bristol, February 2020
+* [Why Audit Your CPU? Searching for Undocumented CPU Behavior](/images/audit-cpu.pdf), Third School on Security & Correctness, Graz University of Technology, September 2019
+* [UBES Expedition Planning Workshop](/images/exped-planning-workshop.pdf), University of Bristol, May 2019
+* [Through the Range of Light: Hiking the JMT](/images/hiking-jmt.pdf), UBES Shorts, University of Bristol, February 2019
+* [Explainable DNNs: What Has Your Network Really Learnt?](/images/explainable-dnns.pdf), Applied Deep Learning Symposium, University of Bristol, December 2018
+* [Undocumented CPU Behavior: Analyzing Undocumented Opcodes on Intel x86-64](/images/undocumented-cpu-behavior.pdf), IAIK, Graz University of Technology, June 2018
 
 ## Academic Service
 * ACM CCS: Program Committee (Hardware, Side Channels, and Cyber-Physical Systems Track) [2023](https://www.sigsac.org/ccs/CCS2023/orgs-program.html), [2024](https://www.sigsac.org/ccs/CCS2024/organization/prog-committee.html)
