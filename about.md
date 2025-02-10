@@ -22,7 +22,7 @@ When I’m not coding, you’ll usually find me in the mountains, either knee-de
 * **Rapid Prototyping for Microarchitectural Attacks.** Catherine Easdon, Michael Schwarz, Martin Schwarzl, Daniel Gruss. *USENIX Security Symposium 2022.*
     * [Paper and Conference Slides](https://www.usenix.org/conference/usenixsecurity22/presentation/easdon)
     * [Frameworks](https://github.com/libtea/frameworks)
-* **PLATYPUS: Software-based Power Side-Channel Attacks on x86.** Moritz Lipp, Andreas Kogler, David Oswald, Michael Schwarz, Catherine Easdon, Claudio Canella, Daniel Gruss. *IEEE Symposium on Security & Privacy 2021.* CVE-2020-8694 and CVE-2020-8695.
+* **PLATYPUS: Software-based Power Side-Channel Attacks on x86.** Moritz Lipp, Andreas Kogler, David Oswald, Michael Schwarz, Catherine Easdon, Claudio Canella, Daniel Gruss. *IEEE Symposium on Security & Privacy 2021.* [https://ubuntu.com/security/CVE-2020-8694](CVE-2020-8694) and [https://ubuntu.com/security/CVE-2020-8695](CVE-2020-8695).
     * [Website](https://platypusattack.com/)
     * [Paper](/images/platypus.pdf)
     * [Conference Recording](https://www.youtube.com/watch?v=LXaroV2crWw)
@@ -38,6 +38,7 @@ When I’m not coding, you’ll usually find me in the mountains, either knee-de
 ## Talks and Articles
 I present and write about privacy, security, and policy, with some mountain expeditions thrown in for good measure.
 
+* [Cybersecurity in Software Development](/images/virtual-routes-sdlc.pdf), Virtual Routes European Cybersecurity Fellowship 2024-2025 workshop series, virtual, February 2025
 * [Responsible AI principles in an 'apolitical' industry](https://bindinghook.com/articles-binding-edge/responsible-ai-principles-in-an-apolitical-industry/), Binding Hook (op-ed), October 2024
 * [Privacy by Design in the SDLC: Why, When, How?](/images/privacy-sdlc.pdf), WeAreDevelopers World Congress, Berlin/virtual, July 2024
 * [That's rather inappropriate, dear: the challenges of determining 'appropriate' measures for personal data deletion](/images/appropriate-privacy.pdf), International Workshop on Privacy Engineering (industry track), Vienna, July 2024
@@ -55,11 +56,11 @@ I present and write about privacy, security, and policy, with some mountain expe
 
 ## Academic Service
 * ACM CCS: Program Committee (Hardware, Side Channels, and Cyber-Physical Systems Track) [2023](https://www.sigsac.org/ccs/CCS2023/orgs-program.html), [2024](https://www.sigsac.org/ccs/CCS2024/organization/prog-committee.html)
-* USENIX PEPR: Program Committee [2024](https://www.usenix.org/conference/pepr24/call-for-participation)
+* USENIX PEPR: Program Committee [2024](https://www.usenix.org/conference/pepr24/call-for-participation), [2025](https://www.usenix.org/conference/pepr25/call-for-participation)
 * IACR CHES: Artifact Review Committee [2023](https://ches.iacr.org/2023/artifacts.php)
 
 ## Giving What We Can
-<div style="float:left;margin-right:15px;"><img src="/images/gwwc.png" alt="A badge from the organization Giving What We Can with the text 'I donate 10% of my income to effective charities'" height="200"></div>
+<div style="float:left;margin-right:15px;"><img src="/images/gwwc.png" alt="A badge from the organization Giving What We Can with the text 'I donate 10% of my income to effective charities'" height="180"></div>
 
 [I've taken the Giving What We Can 🔸 10% Pledge](https://www.givingwhatwecan.org/blog/should-charity-be-anonymous), and I encourage you to do the same if that's financially feasible for you.
 
