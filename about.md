@@ -8,7 +8,7 @@ Hi, I'm Cat.
 
 I translate law and policy into code as a Senior Privacy Engineer at [Dynatrace](https://www.dynatrace.com/). I'm also developing an [introductory online course on privacy engineering](https://www.open.edu/openlearncreate/course/view.php?id=9409) and keeping one foot (...sometimes it feels like both feet!) in the world of research, exploring technology's impact on society with a focus on privacy and human rights. I'm interested in privacy concerns at every layer of the tech stack, but especially so at the hardware level.
 
-Previously, I explored how to bridge the gap between tech and policy as an [Internet Society Early Career Fellow](https://www.internetsociety.org/fellowships/early-career/fellows/2023/) and [ECCRI European Cybersecurity Fellow](https://eccri.eu/2023-2024-eccri-fellows/), hacked CPUs for a living at the [IAIK](https://www.iaik.tugraz.at/research-area/securesystems/), had a brief but transformative glimpse into the world of Privacy and Civil Liberties Engineering at [Palantir](https://www.palantir.com/pcl/), and did my initial geeking out over computer architecture and security in my MEng in Computer Science at the [University of Bristol](http://www.bris.ac.uk/engineering/departments/computerscience/).
+Previously, I explored how to bridge the gap between tech and policy as an [Internet Society Early Career Fellow](https://www.internetsociety.org/fellowships/early-career/fellows/2023/) and [Virtual Routes European Cybersecurity Fellow](https://virtual-routes.org/initiatives/fellowship/), hacked CPUs for a living at [TU Graz's ISEC](https://www.isec.tugraz.at/), had a brief but transformative glimpse into the world of Privacy and Civil Liberties Engineering at [Palantir](https://www.palantir.com/pcl/), and did my initial geeking out over computer architecture and security in my MEng in Computer Science at the [University of Bristol](http://www.bris.ac.uk/engineering/departments/computerscience/).
 
 When I’m not coding, you’ll usually find me in the mountains, either knee-deep in snow or gazing in awe at the views! You can check out some of my adventures [here](/adventures).
 
@@ -22,7 +22,7 @@ When I’m not coding, you’ll usually find me in the mountains, either knee-de
 * **Rapid Prototyping for Microarchitectural Attacks.** Catherine Easdon, Michael Schwarz, Martin Schwarzl, Daniel Gruss. *USENIX Security Symposium 2022.*
     * [Paper and Conference Slides](https://www.usenix.org/conference/usenixsecurity22/presentation/easdon)
     * [Frameworks](https://github.com/libtea/frameworks)
-* **PLATYPUS: Software-based Power Side-Channel Attacks on x86.** Moritz Lipp, Andreas Kogler, David Oswald, Michael Schwarz, Catherine Easdon, Claudio Canella, Daniel Gruss. *IEEE Symposium on Security & Privacy 2021.* [https://ubuntu.com/security/CVE-2020-8694](CVE-2020-8694) and [https://ubuntu.com/security/CVE-2020-8695](CVE-2020-8695).
+* **PLATYPUS: Software-based Power Side-Channel Attacks on x86.** Moritz Lipp, Andreas Kogler, David Oswald, Michael Schwarz, Catherine Easdon, Claudio Canella, Daniel Gruss. *IEEE Symposium on Security & Privacy 2021.* [CVE-2020-8694](https://ubuntu.com/security/CVE-2020-8694) and [CVE-2020-8695](https://ubuntu.com/security/CVE-2020-8695).
     * [Website](https://platypusattack.com/)
     * [Paper](/images/platypus.pdf)
     * [Conference Recording](https://www.youtube.com/watch?v=LXaroV2crWw)
