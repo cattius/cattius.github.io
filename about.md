@@ -38,6 +38,8 @@ When I’m not coding, you’ll usually find me in the mountains, either knee-de
 ## Talks and Articles
 I present and write about privacy, security, and policy, with some mountain expeditions thrown in for good measure.
 
+* [Security & Privacy by Design in the SDLC: Why, When, How?](/images/sba-research-sdlc.pdf), SBA Research Security Meetup, Vienna, February 2025
+* Teaching dangerous technologies to keep us all safe (Panel), RightsCon, Taipei/virtual, February 2025
 * [Cybersecurity in Software Development](/images/virtual-routes-sdlc.pdf), Virtual Routes European Cybersecurity Fellowship 2024-2025 workshop series, virtual, February 2025
 * [Responsible AI principles in an 'apolitical' industry](https://bindinghook.com/articles-binding-edge/responsible-ai-principles-in-an-apolitical-industry/), Binding Hook (op-ed), October 2024
 * [Privacy by Design in the SDLC: Why, When, How?](/images/privacy-sdlc.pdf), WeAreDevelopers World Congress, Berlin/virtual, July 2024
