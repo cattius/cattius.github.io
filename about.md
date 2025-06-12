@@ -14,7 +14,7 @@ When I’m not coding, you’ll usually find me in the mountains, either knee-de
 
 ## Research
 * **CustomProcessingUnit: Reverse Engineering and Customization of Intel Microcode.** Pietro Borrello, Catherine Easdon, Martin Schwarzl, Roland Czerny, Michael Schwarz. *17th IEEE Workshop on Offensive Technologies (WOOT 2023).* Best Paper Award 🏅
-    * [Paper](https://wootconference.org/papers/woot23-paper14.pdf)
+    * [Paper](/images/custom-processing-unit.pdf)
     * [Workshop Recording](https://wootconference.org/video/07-CustomProcessingUnit.mp4)
     * [BlackHat USA 2022 recording](https://www.youtube.com/watch?v=C-ZSvTVvK1o)
     * [Ghidra processor module for static analysis](https://github.com/pietroborrello/ghidra-atom-microcode)
