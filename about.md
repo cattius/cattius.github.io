@@ -38,7 +38,7 @@ When I’m not coding, you’ll usually find me in the mountains, either knee-de
 ## Talks and Articles
 I present and write about privacy, security, and policy, with some mountain expeditions thrown in for good measure.
 
-* Observable...Yet Still Private? An Offensive Privacy Perspective on Observability, USENIX Conference on Privacy Engineering Practice and Respect (PEPR), Santa Clara, upcoming June 2025
+* [Observable...Yet Still Private? An Offensive Privacy Perspective on Observability](/images/pepr-2025.pdf), USENIX Conference on Privacy Engineering Practice and Respect (PEPR), Santa Clara, June 2025
 * [Software Security and Privacy: A Geopolitical Perspective](/images/security-forum-2025.pdf) (opening keynote), Hagenberg Security Forum, Hagenberg, May 2025
 * [Security & Privacy by Design in the SDLC: Why, When, How?](/images/sba-research-sdlc.pdf), SBA Research Security Meetup, Vienna, February 2025
 * Teaching dangerous technologies to keep us all safe (Panel), RightsCon, Taipei/virtual, February 2025
