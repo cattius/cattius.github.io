@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 16px/1.4 $helvetica;  //changed from 18
   color: $darkGray;
 }
 
@@ -211,6 +211,7 @@ img {
 }
 
 nav {
+  overflow: hidden;
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
@@ -237,6 +238,99 @@ nav {
   }
 }
 
+.dropdown {
+ float: left;
+ overflow: hidden;
+}
+
+.dropdown .dropdown-btn {
+ font-size: 18px;
+ border: none;
+ outline: none;
+ background-color: inherit;
+ font-family: inherit; /* Important for vertical align on mobile phones */
+ margin: 0; /* Important for vertical align on mobile phones */
+}
+
+.dropdown-content {
+ font-size: 16px;
+ display: none;
+ position: absolute;
+ background-color: #f9f9f9;
+ box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+ z-index: 1;
+}
+
+.dropdown-content a {
+ float: none;
+ color: black;
+ text-decoration: none;
+ display: block;
+ text-align: left;
+ margin-left: 5px;
+}
+
+/* Add a grey background color to dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+ display: block;
+}
+
+/* Style accordions (expandable content). Cheers to W3Schools (https://www.w3schools.com/howto/howto_js_accordion.asp) for making my life easier! */
+
+.accordion {
+  font-size: 0;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  box-sizing: unset;
+  border: none;
+  font: unset;
+}
+
+.accordion-btn {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+
+.active, .accordion-btn:hover {
+  background-color: #ccc;
+}
+
+/* Add plus sign when accordion has not been expanded */
+.accordion-btn:after {
+  content: '\002B'; /* Unicode character for "plus" sign (+) */
+  color: #777;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+/* Add minus sign when accordion has been expanded */
+.active:after {
+  content: "\2212"; /* Unicode character for "minus" sign (-) */
+}
+
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  font-size: 15px;
+}
+
 //
 // .main
 //
@@ -249,6 +343,15 @@ nav {
 .posts > .post:last-child {
   padding-bottom: 1em;
   border-bottom: none;
+}
+
+blockquote {
+  margin: 1.8em .8em;
+  border-left: 2px solid $gray;
+  padding: 0.1em 1em;
+  color: $gray;
+  font-size: 22px;
+  font-style: italic;
 }
 
 .post {
@@ -281,6 +384,11 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+img[src$="centered"] {
+  display: block;
+  margin: 0 auto;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

@@ -1,0 +1,300 @@
+# hadrian's wall slider
+- selector: hadrians_slider
+  captions: false
+  images:
+    - src: /images/hadrians/1.jpg
+    - src: /images/hadrians/2.jpg
+    - src: /images/hadrians/3.jpg
+    - src: /images/hadrians/4.jpg
+    - src: /images/hadrians/5.jpg
+    - src: /images/hadrians/6.jpg
+    - src: /images/hadrians/7.jpg
+    - src: /images/hadrians/8.jpg
+    - src: /images/hadrians/9.jpg
+    - src: /images/hadrians/10.jpg
+    - src: /images/hadrians/11.jpg
+  settings:
+    height: "'13:10'"
+    effect: "'fade'"
+
+# jmt slider
+- selector: jmt_slider
+  captions: false
+  images:
+    - src: /images/jmt/1.jpg
+    - src: /images/jmt/2.jpg
+    - src: /images/jmt/3.jpg
+    - src: /images/jmt/4.jpg
+    - src: /images/jmt/5.jpg
+    - src: /images/jmt/6.jpg
+    - src: /images/jmt/7.jpg
+    - src: /images/jmt/8.jpg
+    - src: /images/jmt/9.jpg
+    - src: /images/jmt/10.jpg
+    - src: /images/jmt/11.jpg
+    - src: /images/jmt/12.jpg
+    - src: /images/jmt/13.jpg
+    - src: /images/jmt/14.jpg
+    - src: /images/jmt/15.jpg
+    - src: /images/jmt/16.jpg
+    - src: /images/jmt/17.jpg
+    - src: /images/jmt/18.jpg
+    - src: /images/jmt/19.jpg
+    - src: /images/jmt/21.jpg
+    - src: /images/jmt/22.jpg
+    - src: /images/jmt/23.jpg
+    - src: /images/jmt/24.jpg
+    - src: /images/jmt/25.jpg
+    - src: /images/jmt/26.jpg
+    - src: /images/jmt/27.jpg
+    - src: /images/jmt/28.jpg
+    - src: /images/jmt/29.jpg
+    - src: /images/jmt/30.jpg
+    - src: /images/jmt/31.jpg
+  settings:
+    height: "'13:10'"
+    effect: "'fade'"
+
+# lofoten slider
+- selector: lofoten_slider
+  captions: false
+  images:
+    - src: /images/lofoten/1.jpg
+    - src: /images/lofoten/2.jpg
+    - src: /images/lofoten/3.jpg
+    - src: /images/lofoten/4.jpg
+    - src: /images/lofoten/5.jpg
+    - src: /images/lofoten/6.jpg
+    - src: /images/lofoten/7.jpg
+    - src: /images/lofoten/8.jpg
+    - src: /images/lofoten/9.jpg
+    - src: /images/lofoten/10.jpg
+  settings:
+    height: "'16:9'"
+    effect: "'fade'"
+
+# chamonix slider
+- selector: chamonix_slider
+  captions: false
+  images:
+    - src: /images/chamonix/1.jpg
+    - src: /images/chamonix/2.jpg
+    - src: /images/chamonix/3.jpg
+    - src: /images/chamonix/4.jpg
+    - src: /images/chamonix/5.jpg
+    - src: /images/chamonix/6.jpg
+    - src: /images/chamonix/7.jpg
+    - src: /images/chamonix/8.jpg
+    - src: /images/chamonix/9.jpg
+    - src: /images/chamonix/10.jpg
+    - src: /images/chamonix/11.jpg
+  settings:
+    height: "'4:3'"
+    effect: "'fade'"
+
+# svaneti slider
+- selector: svaneti_slider
+  captions: false
+  images:
+    - src: /images/georgia/1.jpg
+    - src: /images/georgia/2.jpg
+    - src: /images/georgia/3.jpg
+    - src: /images/georgia/4.jpg
+    - src: /images/georgia/5.jpg
+    - src: /images/georgia/6.jpg
+    - src: /images/georgia/7.jpg
+    - src: /images/georgia/8.jpg
+    - src: /images/georgia/9.jpg
+    - src: /images/georgia/10.jpg
+    - src: /images/georgia/11.jpg
+    - src: /images/georgia/12.jpg
+  settings:
+    height: "'16:9'"
+    effect: "'fade'"
+
+# wester ross slider
+- selector: wester_slider
+  captions: false
+  images:
+    - src: /images/wester/1.jpg
+    - src: /images/wester/2.jpg
+    - src: /images/wester/3.jpg
+    - src: /images/wester/4.jpg
+    - src: /images/wester/5.jpg
+    - src: /images/wester/6.jpg
+    - src: /images/wester/7.jpg
+  settings:
+    height: "'16:9'"
+    effect: "'fade'"
+
+# austria slider
+# TODO
+- selector: austria_slider
+  captions: false
+  images:
+    - src: /images/austria/1.jpg
+  settings:
+    height: "'16:9'"
+    effect: "'fade'"
+
+# cape wrath slider
+- selector: wrath_slider
+  captions: false
+  images:
+    - src: /images/wrath/2.jpg
+    - src: /images/wrath/3.jpg
+    - src: /images/wrath/4.jpg
+    - src: /images/wrath/5.jpg
+    - src: /images/wrath/6.jpg
+    - src: /images/wrath/7.jpg
+    - src: /images/wrath/8.jpg
+    - src: /images/wrath/9.jpg
+    - src: /images/wrath/10.jpg
+    - src: /images/wrath/1.jpg
+  settings:
+    height: "'16:9'"
+    effect: "'fade'"
+
+# kungsleden slider
+- selector: kungsleden_slider
+  captions: false
+  images:
+    - src: /images/kungsleden/1.jpg
+    - src: /images/kungsleden/2.jpg
+    - src: /images/kungsleden/3.jpg
+    - src: /images/kungsleden/4.jpg
+    - src: /images/kungsleden/5.jpg
+    - src: /images/kungsleden/6.jpg
+    - src: /images/kungsleden/7.jpg
+    - src: /images/kungsleden/8.jpg
+    - src: /images/kungsleden/9.jpg
+    - src: /images/kungsleden/10.jpg
+    - src: /images/kungsleden/11.jpg
+    - src: /images/kungsleden/12.jpg
+  settings:
+    height: "'16:9'"
+    effect: "'fade'"
+
+# armenia alaverdi-dilijan slider
+- selector: armenia_slider
+  captions: false
+  images:
+    - src: /images/armenia/1.jpg
+    - src: /images/armenia/2.jpg
+    - src: /images/armenia/3.jpg
+    - src: /images/armenia/4.jpg
+    - src: /images/armenia/5.jpg
+    - src: /images/armenia/6.jpg
+    - src: /images/armenia/7.jpg
+    - src: /images/armenia/8.jpg
+    - src: /images/armenia/9.jpg
+  settings:
+    height: "'16:9'"
+    effect: "'fade'"
+
+# balkans slider
+- selector: balkans_slider
+  captions: false
+  images:
+    - src: /images/balkans/1.jpg
+    - src: /images/balkans/2.jpg
+    - src: /images/balkans/3.jpg
+    - src: /images/balkans/4.jpg
+    - src: /images/balkans/5.jpg
+    - src: /images/balkans/6.jpg
+    - src: /images/balkans/7.jpg
+    - src: /images/balkans/8.jpg
+    - src: /images/balkans/9.jpg
+    - src: /images/balkans/10.jpg
+    - src: /images/balkans/11.jpg
+    - src: /images/balkans/12.jpg
+    - src: /images/balkans/13.jpg
+    - src: /images/balkans/14.jpg
+    - src: /images/balkans/15.jpg
+    - src: /images/balkans/16.jpg
+    - src: /images/balkans/17.jpg
+    - src: /images/balkans/18.jpg
+    - src: /images/balkans/19.jpg
+    - src: /images/balkans/20.jpg
+    - src: /images/balkans/21.jpg
+    - src: /images/balkans/22.jpg
+  settings:
+    height: "'16:9'"
+    effect: "'fade'"
+
+# UBES slider
+- selector: ubes_slider
+  captions: false
+  images:
+    - src: /images/ubes/1.jpg
+    - src: /images/ubes/2.jpg
+    - src: /images/ubes/3.jpg
+    - src: /images/ubes/4.jpg
+    - src: /images/ubes/5.jpg
+    - src: /images/ubes/5a.jpg
+    - src: /images/ubes/6.jpg
+    - src: /images/ubes/6a.jpg
+    - src: /images/ubes/7.jpg
+    - src: /images/ubes/7a.jpg
+    - src: /images/ubes/8.jpg
+    - src: /images/ubes/8a.jpg
+    - src: /images/ubes/11.jpg
+    - src: /images/ubes/14.jpg
+    - src: /images/ubes/15.jpg
+    - src: /images/ubes/16.jpg
+    - src: /images/ubes/17.jpg
+    - src: /images/ubes/18.jpg
+    - src: /images/ubes/19.jpg
+    - src: /images/ubes/20.jpg
+    - src: /images/ubes/21.jpg
+  settings:
+    height: "'16:9'"
+    effect: "'fade'"
+
+# Georgia 22 slider
+- selector: georgia22_slider
+  captions: false
+  images:
+    - src: /images/georgia22/1.jpg
+    - src: /images/georgia22/2.jpg
+    - src: /images/georgia22/3.jpg
+    - src: /images/georgia22/4.jpg
+    - src: /images/georgia22/5.jpg
+    - src: /images/georgia22/6.jpg
+    - src: /images/georgia22/7.jpg
+    - src: /images/georgia22/8.jpg
+    - src: /images/georgia22/9.jpg
+    - src: /images/georgia22/10.jpg
+    - src: /images/georgia22/11.jpg
+    - src: /images/georgia22/12.jpg
+    - src: /images/georgia22/13.jpg
+    - src: /images/georgia22/14.jpg
+    - src: /images/georgia22/15.jpg
+    - src: /images/georgia22/16.jpg
+    - src: /images/georgia22/17.jpg
+    - src: /images/georgia22/18.jpg
+    - src: /images/georgia22/19.jpg
+    - src: /images/georgia22/20.jpg
+    - src: /images/georgia22/21.jpg
+    - src: /images/georgia22/22.jpg
+  settings:
+    height: "'16:9'"
+    effect: "'fade'"
+
+# Nepal slider
+- selector: nepal_slider
+  captions: false
+  images:
+    - src: /images/nepal/1.jpg
+    - src: /images/nepal/2.jpg
+    - src: /images/nepal/3.jpg
+    - src: /images/nepal/4.jpg
+    - src: /images/nepal/5.jpg
+    - src: /images/nepal/6.jpg
+    - src: /images/nepal/7.jpg
+    - src: /images/nepal/8.jpg
+    - src: /images/nepal/9.jpg
+    - src: /images/nepal/10.jpg
+  settings:
+    height: "'16:9'"
+    effect: "'fade'"
