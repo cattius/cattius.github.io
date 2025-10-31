@@ -38,6 +38,8 @@ When I’m not coding, you’ll usually find me in the mountains, either knee-de
 ## Talks and Articles
 I present and write about privacy, security, and policy, with some mountain expeditions thrown in for good measure.
 
+* [Privacy Threat Modeling in Practice](/images/iapp-epn-2025.pdf) (Workshop), IAPP European Privacy KnowledgeNet 2025, Munich, October 2025
+* [When Security Controls Go Wrong], IAPP Austria KnowledgeNet: At the Crossroads between Privacy and Cybersecurity, virtual, August 2025
 * [What is Privacy Engineering and why it's not as complicated as it sounds](https://www.spreaker.com/episode/what-is-privacy-engineering-and-why-its-not-as-complicated-as-it-sounds-with-cat-easdon--66999911), Pure Performance (podcast), July 2025
 * [Observable...Yet Still Private? An Offensive Privacy Perspective on Observability](/images/pepr-2025.pdf), USENIX Conference on Privacy Engineering Practice and Respect (PEPR), Santa Clara, June 2025
 * [Software Security and Privacy: A Geopolitical Perspective](/images/security-forum-2025.pdf) (opening keynote), Hagenberg Security Forum, Hagenberg, May 2025
@@ -47,7 +49,7 @@ I present and write about privacy, security, and policy, with some mountain expe
 * [Responsible AI principles in an 'apolitical' industry](https://bindinghook.com/articles-binding-edge/responsible-ai-principles-in-an-apolitical-industry/), Binding Hook (op-ed), October 2024
 * [Privacy by Design in the SDLC: Why, When, How?](/images/privacy-sdlc.pdf), WeAreDevelopers World Congress, Berlin/virtual, July 2024
 * [That's rather inappropriate, dear: the challenges of determining 'appropriate' measures for personal data deletion](/images/appropriate-privacy.pdf), International Workshop on Privacy Engineering (industry track), Vienna, July 2024
-* [Defence against the Dark Patterns: UX Lessons from the Deceptive Side of the Web](/images/dark-patterns.pdf), Web Summer Camp (UX track), Opatija, July 2024
+* [Defence against the Dark Patterns: UX Lessons from the Deceptive Side of the Web](/images/dark-patterns.pdf) (Workshop), Web Summer Camp (UX track), Opatija, July 2024
 * [Privacy Leaks Beyond the Class-Level: Protecting Personal Data](/images/privacy-leaks.pdf), Java Vienna, June 2024
 * [Rights by Design: Privacy Engineering for the Rights of All](/images/rights-by-design.pdf), 18th Annual Meeting of the United Nations Internet Governance Forum (IGF), Kyoto, October 2023
 * [Policy Development on Generative AI based on Biometrics & Weaponizing Information Bubbles](https://www.youtube.com/watch?v=Hdp1jAU1x70) (Panel), Asia Pacific Regional Internet Governance Forum (APrIGF), Brisbane/virtual, August 2023
