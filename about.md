@@ -43,7 +43,7 @@ I present and write about privacy, security, and policy, with some mountain expe
 * [What is Privacy Engineering and why it's not as complicated as it sounds](https://www.spreaker.com/episode/what-is-privacy-engineering-and-why-its-not-as-complicated-as-it-sounds-with-cat-easdon--66999911), Pure Performance (podcast), July 2025
 * [Observable...Yet Still Private? An Offensive Privacy Perspective on Observability](/images/pepr-2025.pdf), USENIX Conference on Privacy Engineering Practice and Respect (PEPR), Santa Clara, June 2025
 * [Software Security and Privacy: A Geopolitical Perspective](/images/security-forum-2025.pdf) (opening keynote), Hagenberg Security Forum, Hagenberg, May 2025
-* [Security & Privacy by Design in the SDLC: Why, When, How?](/images/sba-research-sdlc.pdf), SBA Research Security Meetup, Vienna, February 2025
+* [Security & Privacy by Design in the SDLC: Why, When, How?](/images/sba-research-sdlc.pdf), SBA Research Security Meetup (now OWASP Chapter Vienna), Vienna, February 2025
 * Teaching dangerous technologies to keep us all safe (Panel), RightsCon, Taipei/virtual, February 2025
 * [Cybersecurity in Software Development](/images/virtual-routes-sdlc.pdf), Virtual Routes European Cybersecurity Fellowship 2024-2025 workshop series, virtual, February 2025
 * [Responsible AI principles in an 'apolitical' industry](https://bindinghook.com/articles-binding-edge/responsible-ai-principles-in-an-apolitical-industry/), Binding Hook (op-ed), October 2024
