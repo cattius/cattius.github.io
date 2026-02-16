@@ -62,8 +62,9 @@ I present and write about privacy, security, and policy, with some mountain expe
 * [Undocumented CPU Behavior: Analyzing Undocumented Opcodes on Intel x86-64](/images/undocumented-cpu-behavior.pdf), IAIK, Graz University of Technology, June 2018
 
 ## Academic Service
+* USENIX PEPR: Program Committee [2024](https://www.usenix.org/conference/pepr24/call-for-participation), [2025](https://www.usenix.org/conference/pepr25/call-for-participation), [2026](https://www.usenix.org/conference/pepr26/call-for-participation)
+* IWPE: Industry Chair [2026](https://www.iwpe.info/organization.html)
 * ACM CCS: Program Committee (Hardware, Side Channels, and Cyber-Physical Systems Track) [2023](https://www.sigsac.org/ccs/CCS2023/orgs-program.html), [2024](https://www.sigsac.org/ccs/CCS2024/organization/prog-committee.html)
-* USENIX PEPR: Program Committee [2024](https://www.usenix.org/conference/pepr24/call-for-participation), [2025](https://www.usenix.org/conference/pepr25/call-for-participation)
 * IACR CHES: Artifact Review Committee [2023](https://ches.iacr.org/2023/artifacts.php)
 
 ## Giving What We Can
