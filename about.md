@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi, I'm Cat.
 
-I translate law and policy into code at [Dynatrace](https://www.dynatrace.com/), where I lead the Privacy Engineering team. I'm also developing an [introductory online course on privacy engineering](https://www.open.edu/openlearncreate/course/view.php?id=9409) and keeping one foot (...sometimes it feels like both feet!) in the world of research, exploring technology's impact on society with a focus on privacy and human rights. I'm interested in privacy concerns at every layer of the tech stack, but especially so at the hardware level.
+I translate law and policy into code at [Dynatrace](https://www.dynatrace.com/), where I built up the Privacy Engineering team as founding engineer. I also maintain an [introductory online course on privacy engineering](https://www.open.edu/openlearncreate/course/view.php?id=9409) and keep one foot (...sometimes it feels like both feet!) in the world of research, exploring technology's impact on society with a focus on privacy and human rights. I'm interested in privacy concerns at every layer of the tech stack, but especially so at the hardware level.
 
 Previously, I explored how to bridge the gap between tech and policy as an [Internet Society Early Career Fellow](https://www.internetsociety.org/fellowships/early-career/fellows/2023/) and [Virtual Routes European Cybersecurity Fellow](https://virtual-routes.org/initiatives/fellowship/), hacked CPUs for a living at [TU Graz's ISEC](https://www.isec.tugraz.at/), dived into Privacy and Civil Liberties Engineering for the first time at [Palantir](https://www.palantir.com/pcl/), and geeked out over computer architecture and security in my MEng in Computer Science at the [University of Bristol](http://www.bris.ac.uk/engineering/departments/computerscience/).
 
@@ -38,6 +38,9 @@ When I’m not coding, you’ll usually find me in the mountains, either knee-de
 ## Talks and Articles
 I present and write about privacy, security, and policy, with some mountain expeditions thrown in for good measure.
 
+* Shhh, It's A Secret: Preventing Sensitive Data Exposure in Logs (keynote), Hagenberg Security Forum, Hagenberg, May 2026 (upcoming)
+* Privacy at the Code Level, Grazer Linuxtage, Graz, April 2026 (upcoming)
+* Privacy Threat Modeling in Practice, OWASP Innsbruck Chapter, Innsbruck, April 2026 (upcoming)
 * [Privacy Threat Modeling in Practice](/images/iapp-epn-2025.pdf) (Workshop), IAPP European Privacy KnowledgeNet 2025, Munich, October 2025
 * When Security Controls Go Wrong, IAPP Austria KnowledgeNet: At the Crossroads between Privacy and Cybersecurity, virtual, August 2025
 * [What is Privacy Engineering and why it's not as complicated as it sounds](https://www.spreaker.com/episode/what-is-privacy-engineering-and-why-its-not-as-complicated-as-it-sounds-with-cat-easdon--66999911), Pure Performance (podcast), July 2025
