@@ -39,8 +39,8 @@ When I’m not coding, you’ll usually find me in the mountains, either knee-de
 I present and write about privacy, security, and policy, with some mountain expeditions thrown in for good measure.
 
 * Shhh, It's A Secret: Preventing Sensitive Data Exposure in Logs (keynote), Hagenberg Security Forum, Hagenberg, May 2026 (upcoming)
-* Privacy at the Code Level, Grazer Linuxtage, Graz, April 2026 (upcoming)
-* Privacy Threat Modeling in Practice, OWASP Innsbruck Chapter, Innsbruck, April 2026 (upcoming)
+* [Privacy at the Code Level](https://media.ccc.de/v/glt26-711-privacy-at-the-code-level), Grazer Linuxtage, Graz, April 2026
+* Privacy Threat Modeling in Practice, OWASP Innsbruck Chapter, Innsbruck, April 2026
 * [Privacy Threat Modeling in Practice](/images/iapp-epn-2025.pdf) (Workshop), IAPP European Privacy KnowledgeNet 2025, Munich, October 2025
 * When Security Controls Go Wrong, IAPP Austria KnowledgeNet: At the Crossroads between Privacy and Cybersecurity, virtual, August 2025
 * [What is Privacy Engineering and why it's not as complicated as it sounds](https://www.spreaker.com/episode/what-is-privacy-engineering-and-why-its-not-as-complicated-as-it-sounds-with-cat-easdon--66999911), Pure Performance (podcast), July 2025
