@@ -38,7 +38,7 @@ When I’m not coding, you’ll usually find me in the mountains, either knee-de
 ## Talks and Articles
 I present and write about privacy, security, and policy, with some mountain expeditions thrown in for good measure.
 
-* Shhh, It's A Secret: Preventing Sensitive Data Exposure in Logs (keynote), Hagenberg Security Forum, Hagenberg, May 2026 (upcoming)
+* [Shhh, It's A Secret: Preventing Sensitive Data Exposure in Logs](/images/security-forum-2026.pdf) (keynote), Hagenberg Security Forum, Hagenberg, May 2026
 * [Privacy at the Code Level](https://media.ccc.de/v/glt26-711-privacy-at-the-code-level), Grazer Linuxtage, Graz, April 2026
 * Privacy Threat Modeling in Practice, OWASP Innsbruck Chapter, Innsbruck, April 2026
 * [Privacy Threat Modeling in Practice](/images/iapp-epn-2025.pdf) (Workshop), IAPP European Privacy KnowledgeNet 2025, Munich, October 2025
