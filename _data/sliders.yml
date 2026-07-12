@@ -303,7 +303,7 @@
 - selector: armenia24_slider
   captions: false
   images:
-    - src: /images/armenia24/1.HEIC
+    - src: /images/armenia24/1.jpg
     - src: /images/armenia24/2.jpg
     - src: /images/armenia24/3.jpg
     - src: /images/armenia24/4.jpg
