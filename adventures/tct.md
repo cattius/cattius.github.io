@@ -8,11 +8,11 @@ image_sliders:
   - georgia22_slider
   - armenia24_slider
 ---
-The Transcaucasian Trail (TCT) project aims to build a long-distance hiking trail (3000+ km) through Georgia, Armenia and Azerbaijan following the Greater and Lesser Caucasus mountain ranges. Since our UBES exped in 2017, a huge amount of effort has gone into developing the trail. It's now much more hiker-friendly and there are route guides available for many of the sections (including excitingly the first sections in Azerbaijan) on the [TCT website](https://transcaucasiantrail.org/en/hike/). So don't be put off by our tales from 2017! If you'd like to get involved in the project, the TCT team are always on the lookout for [trailbuilding volunteers](https://transcaucasiantrail.org/en/volunteer/). Another fantastic source of route information, tips, and info on current conditions is Jozef's [Caucasus Trekking site](https://www.caucasus-trekking.com/) and the associated [Facebook page and group](https://www.facebook.com/caucasustrekking/).
+The Transcaucasian Trail (TCT) project aims to build a long-distance hiking trail (3000+ km) through Georgia, Armenia and Azerbaijan following the Greater and Lesser Caucasus mountain ranges. Since our UBES exped in 2017, a huge amount of effort has gone into developing the trail. It's now much more hiker-friendly and there are route guides available for many of the sections (including excitingly the first sections in Azerbaijan) on the [TCT website](https://transcaucasiantrail.org/en/hike/). So don't be put off by our tales from 2017! Another fantastic source of route information, tips, and info on current conditions is Jozef's [Caucasus Trekking site](https://www.caucasus-trekking.com/) and the associated [Facebook page and group](https://www.facebook.com/caucasustrekking/). If you'd like to get involved in the project, the TCT team are always on the lookout for [trailbuilding volunteers](https://transcaucasiantrail.org/en/volunteer/).
 
 Val and Lea were the first hikers to thru-hike the Lesser Caucasus TCT route, both solo. They played a crucial role in defining the route, blazing the way for future hikers:
 * [Val's thru-hike](https://valismaili.org/tct-17) and [guide to the Lesser Caucasus TCT](https://valismaili.org/advice-to-future-tcters)
-* [Lea's Instagram](https://www.instagram.com/leainderwelt/)
+* [Lea's Instagram](https://www.instagram.com/lea_and_emmi/)
 
 In the Greater Caucasus, [Rich Hartfield](https://www.instagram.com/richhartfield/) completed a thru-hike starting on the Russian side, and made a [stunning film](https://www.youtube.com/watch?v=B2Z9iAAFw4Y) about the adventure.
 
