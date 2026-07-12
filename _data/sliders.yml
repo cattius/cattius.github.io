@@ -298,3 +298,20 @@
   settings:
     height: "'16:9'"
     effect: "'fade'"
+
+# armenia gegham 2024 slider
+- selector: armenia24_slider
+  captions: false
+  images:
+    - src: /images/armenia24/1.HEIC
+    - src: /images/armenia24/2.jpg
+    - src: /images/armenia24/3.jpg
+    - src: /images/armenia24/4.jpg
+    - src: /images/armenia24/5.jpg
+    - src: /images/armenia24/6.jpg
+    - src: /images/armenia24/7.jpg
+    - src: /images/armenia24/8.jpg
+    - src: /images/armenia24/9.jpg
+  settings:
+    height: "'16:9'"
+    effect: "'fade'"

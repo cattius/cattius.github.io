@@ -17,6 +17,8 @@ permalink: /adventures/
 * [Kungsleden](/adventures/kungsleden), Sweden (2020)
 * [Three Passes Trek](/adventures/nepal), Nepal (2022)
 * [Mt. Olympus](/adventures/olympus), Greece (2023)
+* *Canada (2025)*
+* *Tajikistan Overland (upcoming)*
 
 # UBES Adventures
 I wrote some blog posts for UBES (University of Bristol Expeditions Society, a.k.a. my second family) which might give you some insight into the glorious chaos of our adventures:

@@ -6,6 +6,7 @@ image_sliders:
   - svaneti_slider
   - armenia_slider
   - georgia22_slider
+  - armenia24_slider
 ---
 The Transcaucasian Trail (TCT) project aims to build a long-distance hiking trail (3000+ km) through Georgia, Armenia and Azerbaijan following the Greater and Lesser Caucasus mountain ranges.
 
@@ -23,6 +24,11 @@ In July 2018 I hiked an unmarked 100km section of the TCT in Armenia from Alaver
 In autumn 2021 I returned to Svaneti with Raef and Charlie to enjoy lots more khachapuri, kubdari, khinkali, and Natakhtari lemonade (if you've never tried chocolate lemonade, you don't know what you're missing out on...) and, er, yes, also to do some hiking. We hiked from Mukhuri to Khaishi via the stunning Tobavarkchili Lakes (ft. unexpectedly clear views of Elbrus) - a section of the TCT that we'd planned to do in 2017, but was infeasible that year due to the high snow levels. We then did lots of exploring around Mestia and Mazeri before hiking into Lower Svaneti from Ushguli over the Latpari Pass, with breathtaking views of the [Bezengi Wall](https://en.wikipedia.org/wiki/Bezengi_Wall) and 9 glaciers visible at once. On this trip we also had our first peek at the Kazbegi region, although didn't have time to explore fully. Will I be back again? Most probably! I can't recommend hiking in Georgia highly enough.
 
 {% include slider.html selector="georgia22_slider" %}
+
+# Gegham Mountains
+In summer 2024 Charlie and I returned to Armenia to hike the TCT across the Gegham mountains, a wild and remote chain of (extinct) volcanoes inhabited only by herders in summer. Starting at Orbelian's Caravanserai, a well-preserved 14th-century inn for Silk Road travelers atop a mountain pass with views across to neighboring Azerbaijan and Iran, and crossing the range to finish at Sevan, this trip featured swims in volcanic craters, an unstoppable Lada that drove right through a river, accidentally gatecrashing a family's party (who insisted that they should marry Charlie and I on the spot), and travelling back in time visiting a mountain-top Soviet-era military base overlooking what used to be the USSR's border with Turkey and Iran. Check out the full route guide [here](https://transcaucasiantrail.org/en/hike/gegham-mountains-armenia/) (and pay close attention to the safety info about shepherd dogs - you will be chased by them!).
+
+{% include slider.html selector="armenia24_slider" %}
 
 # More Information
 Media about the Svaneti expedition:
